@@ -2,36 +2,29 @@
   {
     "nimike": "Vitsipitsa : täytteenä Niko ja Santtu",
     "osasto": "Lastenosasto N",
-    "luokka": "84.2 SAL",
-    "hylly": "Huumori",
-    "vapautuu": "2.4.2024"
+    "hylly": "84.2 SAL",
+    "luokka": "Huumori",
+    "vapautuu": "2.4.2024 -"
   },
   {
     "nimike": "Vitsipitsa : täytteenä Ella ja Helmi",
     "osasto": "Lastenosasto N",
-    "luokka": "84.2 SAL",
-    "hylly": "Huumori",
-    "vapautuu": "12.4.2024"
-  },
-  {
-    "nimike": "Vitsipitsa : täytteenä Harri ja Petri FromTheBushes",
-    "osasto": "Lastenosasto N",
-    "luokka": "84.2 SAL",
-    "hylly": "Huumori",
-    "vapautuu": "21.3.2024"
-  },
-  {
-    "nimike": "Vitsipitsa : täytteenä Mandimai ja Joona Hellman",
-    "osasto": "Lastenosasto N",
-    "luokka": "84.2 SAL",
-    "hylly": "Huumori",
-    "vapautuu": "21.3.2024"
+    "hylly": "84.2 SAL",
+    "luokka": "Huumori",
+    "vapautuu": "12.4.2024 -"   
   },
   {
     "nimike": "Mirabelle rikkoo sääntöjä",
     "osasto": "Lastenosasto N",
-    "luokka": "84.2 SAL",
-    "hylly": "Fantasia",
-    "vapautuu": ""
+    "hylly": "84.2 SAL",
+    "luokka": "Fantasia",
+    "vapautuu": ""      
+  },
+  {
+    "nimike": "Vitsipitsa : täytteenä Mandimai ja Joona Hellman",
+    "osasto": "Lastenosasto N",
+    "hylly": "84.2 SAL",    
+    "luokka": "Huumori",
+    "vapautuu": ""     
   }
 ]

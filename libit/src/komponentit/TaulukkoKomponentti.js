@@ -1,18 +1,18 @@
 const TaulukkoKomponentti = ({ data }) => {
-    const headers = Object.keys(data[0]);
     const rows = data.map(item => Object.values(item));
   
     return (
-      <table>
-        <thead>
-          <tr>
-            {headers.map(header => <th key={header}>{header}</th>)}
-          </tr>
-        </thead>
+      <table cellspacing="5" cellspadding="5"  align="center">
         <tbody>
           {rows.map((row, index) => (
             <tr key={index}>
-              {row.map((cell, index) => <td key={index}>{cell}</td>)}
+              {row.map((cell, index) => 
+                <td key={index}>
+                  <div align="left">
+                    {cell}
+                  </div>
+                </td>
+              )}
             </tr>
           ))}
         </tbody>
