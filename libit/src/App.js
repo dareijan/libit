@@ -22,16 +22,34 @@ const App = () => {
             </div>
             <div>
                 <TaulukkoKuvaHarmaannettuKomponentti data={kannetlainassa} />
-            </div>                      
-        </span>
-        <br />
-        <br />
-        <br />        
-        <p></p>                
-        <span align="center">
-            <TaulukkoKomponentti data={kirjat} />
-        </span>
-        <br />     
+            </div>   
+            <br />            
+            <div align="center">      
+            Hei ja tervetuloa! Tämän palvelun nimi on Libit<br />
+            Näet heti sivulla suosituimpien lastenkirjojen saatavuuden.
+            <br />
+            Nappaa kirja mukaasi käydessäsi Vaajakoskella lähellä.
+            <br />
+
+            Ehkä löysit jo mielenkiintoisia kirjoja?
+            <br />            
+            Libit palvelu on ilmainen - päivitetään tietoja omalla ajallani.
+            <br />
+            Toivon että tämä tuo lukuiloa lapsille ja edistää lukemaan oppimista.
+            <br />
+            Kirja ovat vapaana kunnes joku asiakas sen varaa tai lainaa.
+            <br />
+            Täysin varman tiedon kirjan saatavuudesta näet kirjastolla            
+            </div>                   
+            </span>
+            <br />
+            <br />
+            <br />        
+                
+            <span align="center">
+                <TaulukkoKomponentti data={kirjat} />
+            </span>
+            <br />     
     </p>
     );
   };
