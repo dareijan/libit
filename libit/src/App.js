@@ -13,6 +13,7 @@ const App = () => {
     return (
     <p>
         <span align="center">
+            <h1>Libit!</h1>
             <div>    
                 <ViimeksiPaivitettyKomponentti data={viimeksipaivitetty} />
                 <p align="center">Vaajakosken kirjasto Urheilutie 36, Vaajakoski</p>  
@@ -24,22 +25,21 @@ const App = () => {
                 <TaulukkoKuvaHarmaannettuKomponentti data={kannetlainassa} />
             </div>   
             <br />            
-            <div align="center">      
-            Hei ja tervetuloa! Tämän palvelun nimi on Libit<br />
-            Näet heti sivulla suosituimpien lastenkirjojen saatavuuden.
+            <div align="center">  
+            <i>  
+            - Libit lyhyesti -<br />
+            - sivulla on suosituimpien lastenkirjojen saatavuus yhdellä sivulla -
+            <br />         
+            - päivitetään tietoja omalla ajallani -
             <br />
-            Nappaa kirja mukaasi käydessäsi Vaajakoskella lähellä.
+            - toivon että tämä tuo lukuiloa lapsille ja nuorille - 
             <br />
-
-            Ehkä löysit jo mielenkiintoisia kirjoja?
-            <br />            
-            Libit palvelu on ilmainen - päivitetään tietoja omalla ajallani.
+            - ps. kirja ovat vapaana kunnes joku asiakas sen varaa tai lainaa -
             <br />
-            Toivon että tämä tuo lukuiloa lapsille ja edistää lukemaan oppimista.
+            - pps. täysin varman tiedon kirjan saatavuudesta näet missäpä muualla kuin kirjastolla -
             <br />
-            Kirja ovat vapaana kunnes joku asiakas sen varaa tai lainaa.
-            <br />
-            Täysin varman tiedon kirjan saatavuudesta näet kirjastolla            
+            -Tarja
+            </i>           
             </div>                   
             </span>
             <br />

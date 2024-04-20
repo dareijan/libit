@@ -4,17 +4,17 @@ const TaulukkoKuvaKomponentti = ({ data }) => {
     return (
       <table cellspacing="10" cellspadding="10" align="center">
         <tbody>
+        {rows.map((row, index) => (
+            row.map((cell, index) =>           
             <tr>
-            {rows.map((row, index) => (
-                row.map((cell, index) => 
-                  <td key={index}>
-                    <div align="center">
-                      <img src={cell}></img>
-                    </div>
-                  </td>
-                )              
-            ))}
+              <td key={index}>
+                <div align="center">
+                  <img src={cell} width="200"></img>
+                </div>
+              </td>
             </tr>
+                )              
+              ))}            
         </tbody>
       </table>
     );

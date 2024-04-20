@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -40,3 +41,17 @@
 .harmaannettu {
   filter: grayscale(100%); 
 }
+
+.vapaana {
+  color:pink;
+}
+td {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif Garde, Helvetica;
+  letter-spacing: 0.2mm;
+}
+
+/*tr
+{
+  line-height: 20px;
+}
+*/

@@ -1,15 +1,14 @@
 const TaulukkoKomponentti = ({ data }) => {
     const rows = data.map(item => Object.values(item));
-  
     return (
-      <table cellspacing="5" cellspadding="5"  align="center">
+      <table cellspacing="2" cellspadding="2"  align="center" width="80%">
         <tbody>
           {rows.map((row, index) => (
             <tr key={index}>
               {row.map((cell, index) => 
-                <td key={index}>
-                  <div align="left">
-                    {cell}
+                <td key={index} >                 
+                  <div align="center">
+                    <span class={(cell == '')? 'vapaana': ''}> {cell} {(cell == '')? "♥": ""}</span>                    
                   </div>
                 </td>
               )}
