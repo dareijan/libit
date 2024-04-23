@@ -46,8 +46,10 @@
   color:pink;
 }
 td {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif Garde, Helvetica;
-  letter-spacing: 0.2mm;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Courier New', Courier, monospace, Georgia, 'Times New Roman', Times, serif; /*, sans-serif Garde, Helvetica;*/
+  letter-spacing: 0.5mm;
+  height: 70px;
+  padding: 10px;
 }
 
 /*tr

@@ -1,1 +1,177 @@
-[{ "nimeke" : "Ella ja kadonnut karttakeppi",  "vapautuu": "" , "osasto": "Lastenosasto L",  "hylly": "84.2 PAR          " },{ "nimeke" : "Ella ja kaverit karkaavat koulusta", "vapautuu": "29.4.2024", "osasto": "Lastenosasto L", "hylly": "84.2 PAR          " },{ "nimeke" : "Ella ja kaverit salaisessa palveluksessa", "vapautuu": "", "osasto": "Lastenosasto L", "hylly": "84.2 PAR          " },{ "nimeke" : "Heinähattu, Vilttitossu ja hupsu enkeli", "vapautuu": "22.4.2024", "osasto": "Lastenosasto L", "hylly": "84.2 NOP          " },{ "nimeke" : "Kirkon arvoitus", "vapautuu": "3.5.2024", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 WID          " },{ "nimeke" : "Me Rosvolat", "vapautuu": "", "osasto": "Nuortenosasto NN", "hylly": "84.2 KOL          " },{ "nimeke" : "Mestarietsivä Peppunen", "vapautuu": "17.5.2024", "osasto": "Lastenosasto N", "hylly": "85.22 TRO          " },{ "nimeke" : "Mestarietsivä Peppunen : Felix ja onnenkissat", "vapautuu": "13.5.2024", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 TRO          " },{ "nimeke" : "Mestarietsivä Peppunen : etsivätoimisto vaarassa", "vapautuu": "15.5.2024", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 TRO          " },{ "nimeke" : "Mestarietsivä Peppunen : kadonneen currymausteen tapaus", "vapautuu": "22.4.2024", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 TRO          " },{ "nimeke" : "Mestarietsivä Peppunen : mestarivaras ja mestarietsivä", "vapautuu": "6.5.2024", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 TRO          " },{ "nimeke" : "Mestarietsivä Peppunen : pienen poliisipäällikön iso pulma", "vapautuu": "6.5.2024", "osasto": "Lastenosasto L, Kuvakirjat", "hylly": "85.22 TRO          " },{ "nimeke" : "Mestarietsivä Peppunen : rauniotemppelin arvoitus", "vapautuu": "25.4.2024", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 TRO          " },{ "nimeke" : "Mestarietsivä Peppunen : sateenkaaritimantin tapaus", "vapautuu": "2.5.2024", "osasto": "Lastenosasto L, Kuvakirjat", "hylly": "85.22 TRO          " },{ "nimeke" : "Mestarietsivä Peppunen : voittamaton rosvojoukko", "vapautuu": "10.5.2024", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 TRO          " },{ "nimeke" : "Mirabelle ja huono päivä", "vapautuu": "", "osasto": "Lastenosasto L", "hylly": "84.2 MUN          " },{ "nimeke" : "Mirabelle ja kaksin verroin tuhmempi", "vapautuu": "", "osasto": "Lastenosasto L", "hylly": "84.2 MUN          " },{ "nimeke" : "Mirabelle on tottelematon", "vapautuu": "24.4.2024", "osasto": "Lastenosasto N, Fantasia", "hylly": "84.2 MUN          " },{ "nimeke" : "Neropatin päiväkirja: Helppo nakki", "vapautuu": "26.4.2024", "osasto": "Nuortenosasto NN", "hylly": "84.2 KIN          " },{ "nimeke" : "Peppi käy kaupoissa", "vapautuu": "19.4.2024", "osasto": "Lastenosasto L, Kuvakirjat", "hylly": "85.22 LIN          " },{ "nimeke" : "Sahramin arvoitus", "vapautuu": "", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 WID          " },{ "nimeke" : "Sairaalan arvoitus", "vapautuu": "10.5.2024", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 WID          " },{ "nimeke" : "Uimahallin arvoitus", "vapautuu": "15.5.2024", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 WID          " },{ "nimeke" : "Vilma Virtanen ja uimataito", "vapautuu": "2.5.2024", "osasto": "Lastenosasto L, Kuvakirjat", "hylly": "85.22 KAN          " },{ "nimeke" : "Vitsipitsa : täytteenä Ella ja Helmi", "vapautuu": "2.5.2024", "osasto": "Nuortenosasto NN, Huumori", "hylly": "84.2 SAL          " },{ "nimeke" : "Vitsipitsa : täytteenä Harri ja Petri FromTheBushes", "vapautuu": "21.3.2024", "osasto": "Nuortenosasto NN, Huumori", "hylly": "84.2 SAL          " },{ "nimeke" : "Vitsipitsa : täytteenä Niko ja Santtu", "vapautuu": "2.4.2024", "osasto": "Nuortenosasto NN, Huumori", "hylly": "84.2 SAL          " },{ "nimeke" : "Yökoulu ja hirveä hammaskeiju", "vapautuu": "30.4.2024", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 NOR          " },{ "nimeke" : "Yökoulu ja kauheat naapurit", "vapautuu": "", "osasto": "Lastenosasto L, Helppolukuiset", "hylly": "84.2 NOR          " }]
+[{
+    "nimeke": "Ella ja kaverit salaisessa palveluksessa",
+    "vapautuu": "",
+    "osasto": "Lastenosasto L",
+    "hylly": "84.2 PAR"
+}, {
+    "nimeke": "Ella ja kaverit tekoälyä terävämpinä",
+    "vapautuu": "13.5.2024",
+    "osasto": "Lastenosasto L",
+    "hylly": "84.2 PAR"
+}, {
+    "nimeke": "Ella ja kaverit tulevaisuuden toivoina",
+    "vapautuu": "",
+    "osasto": "Lastenosasto L",
+    "hylly": "84.2 PAR"
+}, {
+    "nimeke": "Ella ja kaverit vihdoin kolmannella",
+    "vapautuu": "",
+    "osasto": "Lastenosasto L",
+    "hylly": "84.2 PAR"
+}, {
+    "nimeke": "Ella ja kaverit rakentavat ihmekoneen",
+    "vapautuu": "",
+    "osasto": "Lastenosasto L",
+    "hylly": "84.2 PAR"
+}, {
+    "nimeke": "Ella ja kadonnut karttakeppi",
+    "vapautuu": "",
+    "osasto": "Lastenosasto L",
+    "hylly": "84.2 PAR"
+}, {
+    "nimeke": "Ella ja kaverit karkaavat koulusta",
+    "vapautuu": "29.4.2024",
+    "osasto": "Lastenosasto L",
+    "hylly": "84.2 PAR"
+}, {
+    "nimeke": "Heinähattu, Vilttitossu ja hupsu enkeli",
+    "vapautuu": "22.4.2024",
+    "osasto": "Lastenosasto L",
+    "hylly": "84.2 NOP"
+}, {
+    "nimeke": "Heinähattu, Vilttitossu ja ärhäkkä koululainen",
+    "vapautuu": "29.4.2024",
+    "osasto": "Lastenosasto N",
+    "hylly": "84.2 NOP"
+}, {
+    "nimeke": "Heinähatun ja Vilttitossun kaverikirja",
+    "vapautuu": "",
+    "osasto": "Nuortenosasto NN",
+    "hylly": "82.204 TÄH"
+}, {
+    "nimeke": "Heinähattu, Vilttitossu ja kana",
+    "vapautuu": "",
+    "osasto": "Lastenosasto L",
+    "hylly": "84.2 NOP"
+}, {
+    "nimeke": "Hotellin arvoitus",
+    "vapautuu": "",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 WID"
+}, {
+    "nimeke": "Kirkon arvoitus",
+    "vapautuu": "",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 WID"
+}, {
+    "nimeke": "Mestarietsivä Peppunen : Felix ja onnenkissat",
+    "vapautuu": "13.5.2024",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 TRO"
+}, {
+    "nimeke": "Mestarietsivä Peppunen : etsivätoimisto vaarassa",
+    "vapautuu": "15.5.2024",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 TRO"
+}, {
+    "nimeke": "Mestarietsivä Peppunen : kadonneen currymausteen tapaus",
+    "vapautuu": "29.4.2024",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 TRO"
+}, {
+    "nimeke": "Mestarietsivä Peppunen : mestarivaras ja mestarietsivä",
+    "vapautuu": "6.5.2024",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 TRO"
+}, {
+    "nimeke": "Mestarietsivä Peppunen : pienen poliisipäällikön iso pulma",
+    "vapautuu": "6.5.2024",
+    "osasto": "Lastenosasto L, Kuvakirjat",
+    "hylly": "85.22 TRO"
+}, {
+    "nimeke": "Mestarietsivä Peppunen : rauniotemppelin arvoitus",
+    "vapautuu": "2.5.2024",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 TRO"
+}, {
+    "nimeke": "Mestarietsivä Peppunen : sateenkaaritimantin tapaus",
+    "vapautuu": "2.5.2024",
+    "osasto": "Lastenosasto L, Kuvakirjat",
+    "hylly": "85.22 TRO"
+}, {
+    "nimeke": "Mestarietsivä Peppunen : voittamaton rosvojoukko",
+    "vapautuu": "10.5.2024",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 TRO"
+}, {
+    "nimeke": "Mirabelle ja huono päivä",
+    "vapautuu": "",
+    "osasto": "Lastenosasto L",
+    "hylly": "84.2 MUN"
+}, {
+    "nimeke": "Mirabelle on tottelematon",
+    "vapautuu": "24.4.2024",
+    "osasto": "Lastenosasto N, Fantasia",
+    "hylly": "84.2 MUN"
+}, {
+    "nimeke": "Neropatin päiväkirja: Helppo nakki",
+    "vapautuu": "2.5.2024",
+    "osasto": "Nuortenosasto NN",
+    "hylly": "84.2 KIN"
+}, {
+    "nimeke": "Sahramin arvoitus",
+    "vapautuu": "",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 WID"
+}, {
+    "nimeke": "Uimahallin arvoitus",
+    "vapautuu": "15.5.2024",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 WID"
+}, {
+    "nimeke": "Veera ja maatalon eläimet",
+    "vapautuu": "",
+    "osasto": "Lastenosasto L, Kuvakirjat",
+    "hylly": "85.22 HAV"
+}, {
+    "nimeke": "Veera ja menopelit",
+    "vapautuu": "20.5.2024",
+    "osasto": "Lastenosasto L, Kuvakirjat",
+    "hylly": "85.22 HAV"
+}, {
+    "nimeke": "Veeran keittiöpuuhat",
+    "vapautuu": "17.4.2024",
+    "osasto": "Lastenosasto L, Kuvakirjat",
+    "hylly": "85.22 HAV"
+}, {
+    "nimeke": "Vilma Virtanen ja uimataito",
+    "vapautuu": "2.5.2024",
+    "osasto": "Lastenosasto L, Kuvakirjat",
+    "hylly": "85.22 KAN"
+}, {
+    "nimeke": "Vitsipitsa : täytteenä Ella ja Helmi",
+    "vapautuu": "",
+    "osasto": "Nuortenosasto NN, Huumori",
+    "hylly": "84.2 SAL"
+}, {
+    "nimeke": "Vitsipitsa : täytteenä Harri ja Petri FromTheBushes",
+    "vapautuu": "6.5.2024",
+    "osasto": "Nuortenosasto NN, Huumori",
+    "hylly": "84.2 SAL"
+}, {
+    "nimeke": "Vitsipitsa : täytteenä Niko ja Santtu",
+    "vapautuu": "",
+    "osasto": "Nuortenosasto NN, Huumori",
+    "hylly": "84.2 SAL"
+}, {
+    "nimeke": "Yökoulu ja hirveä hammaskeiju",
+    "vapautuu": "30.4.2024",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 NOR"
+}, {
+    "nimeke": "Yökoulu ja kauheat naapurit",
+    "vapautuu": "24.4.2024",
+    "osasto": "Lastenosasto L, Helppolukuiset",
+    "hylly": "84.2 NOR"
+}
+]

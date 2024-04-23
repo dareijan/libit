@@ -77,3 +77,5 @@ npm run start
 
 npm install gh-pages --save-dev
 npm run deploy
+
+cd C:\workspaces\Oma_Libbits_VisualStudioCode\libit\libit\src\

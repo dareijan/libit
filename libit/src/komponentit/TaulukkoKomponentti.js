@@ -7,7 +7,7 @@ const TaulukkoKomponentti = ({ data }) => {
             <tr key={index}>
               {row.map((cell, index) => 
                 <td key={index} >                 
-                  <div align="center">
+                  <div align="left">
                     <span class={(cell == '')? 'vapaana': ''}> {cell} {(cell == '')? "♥": ""}</span>                    
                   </div>
                 </td>
