@@ -7,7 +7,7 @@ const ViimeksiPaivitettyKomponentti = ({ data }) => {
         <tbody>
           <thead>
             <tr>
-              {headers.map(header => <th><div>{header}</div></th>)}
+              {headers.map(header => <td>{header}</td>)}
             </tr>
           </thead>
           {rows.map((row, index) => (
