@@ -1,21 +1,21 @@
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+
 const TaulukkoKomponentti = ({ data }) => {
     const rows = data.map(item => Object.values(item));
     return (
-      <table cellspacing="2" cellspadding="2"  align="center" width="80%">
-        <tbody>
+      <Container>
           {rows.map((row, index) => (
-            <tr key={index}>
-              {row.map((cell, index) => 
-                <td key={index} >                 
-                  <div align="left">
-                    <span class={(cell == '')? 'vapaana': ''}> {cell} {(cell == '')? "♥": ""}</span>                    
-                  </div>
-                </td>
+            <Row> 
+                {row.map((cell, index) => 
+                <Col>
+                  {cell}
+                </Col>
               )}
-            </tr>
+          </Row>
           ))}
-        </tbody>
-      </table>
+      </Container>
     );
   };
   

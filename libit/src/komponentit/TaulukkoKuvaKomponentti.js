@@ -13,8 +13,9 @@ const TaulukkoKuvaKomponentti = ({ data }) => {
                 </div>
               </td>
             </tr>
-                )              
-              ))}            
+            )              
+            ))
+        }            
         </tbody>
       </table>
     );

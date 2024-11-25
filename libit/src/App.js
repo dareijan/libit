@@ -46,12 +46,11 @@ const App = () => {
             <br />
             <br />        
                 
-            <span align="center">
+            <span align="left">
                 <TaulukkoKomponentti data={kirjat} />
             </span>
             <br />     
     </p>
     );
   };
-  
   export default App;
