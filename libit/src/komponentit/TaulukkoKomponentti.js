@@ -7,9 +7,9 @@ const TaulukkoKomponentti = ({ data }) => {
     return (
       <Container>
           {rows.map((row, index) => (
-            <Row> 
+            <Row className="kirjatspan"> 
                 {row.map((cell, index) => 
-                <Col>
+                <Col className="kirjatspan">
                   {cell}
                 </Col>
               )}

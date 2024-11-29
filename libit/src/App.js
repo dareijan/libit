@@ -46,7 +46,7 @@ const App = () => {
             <br />
             <br />        
                 
-            <span align="left">
+            <span >
                 <TaulukkoKomponentti data={kirjat} />
             </span>
             <br />     
